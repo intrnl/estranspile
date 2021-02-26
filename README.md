@@ -1,6 +1,6 @@
 # estranspile
 
-Quickly transform TypeScript files to JavaScript with esbuild
+Quickly transform source code with esbuild
 
 - No bundling, only quick and dirty transpilation
 - No import/export rewrite, append `.js` on your own!

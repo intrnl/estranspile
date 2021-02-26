@@ -1,10 +1,18 @@
 {
-	"private": true,
 	"type": "module",
-	"name": "@accord/estranspile",
+	"name": "@intrnl/estranspile",
+	"description": "Quickly transform source code with esbuild",
 	"version": "0.1.0",
 	"license": "MIT",
+	"author": "intrnl",
+	"repository": {
+		"url": "https://github.com/intrnl/estranspile"
+	},
 	"bin": "src/index.js",
+	"files": [
+		"src/",
+		"README.md"
+	],
 	"dependencies": {
 		"esbuild": "^0.8.52"
 	}
