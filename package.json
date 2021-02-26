@@ -1,0 +1,11 @@
+{
+	"private": true,
+	"type": "module",
+	"name": "@accord/estranspile",
+	"version": "0.1.0",
+	"license": "MIT",
+	"bin": "src/index.js",
+	"dependencies": {
+		"esbuild": "^0.8.52"
+	}
+}
